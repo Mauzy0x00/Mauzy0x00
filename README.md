@@ -1,6 +1,6 @@
 ### Howdy hey!
 I'm a Computer Security student just trying to learn some stuff.
-- Currently trying to learn TensorFlow.
+- Currently trying to learn TensorFlow and web development using a home server with a LEMP stack.
 
 <img src="https://komarev.com/ghpvc/?username=Mauzy0x&style=flat-square&color=blue" alt=""/>
 
