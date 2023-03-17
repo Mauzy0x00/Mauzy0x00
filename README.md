@@ -1,5 +1,6 @@
 ### Howdy hey!
-I'm just learning some stuff.
+I'm a Computer Security Student just trying to learn some stuff.
+- Currently trying to learn TensorFlow.
 
 <img src="https://komarev.com/ghpvc/?username=Mauzy0x&style=flat-square&color=blue" alt=""/>
 
