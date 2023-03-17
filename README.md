@@ -1,4 +1,7 @@
-### Hi there 👋
+### Howdy hey!
+I'm just learning some stuff.
+
+<img src="https://komarev.com/ghpvc/?username=Mauzy0x&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Mauzy0x/Mauzy0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
