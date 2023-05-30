@@ -2,7 +2,7 @@
 I'm a Computer Security student just trying to learn some stuff.
 - Currently going through the Try Hack Me learning environments
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Mauzy.png" alt="TryHackMe">
+
 <img src="https://komarev.com/ghpvc/?username=Mauzy0x&style=flat-square&color=blue" alt=""/>
 
 <!--
