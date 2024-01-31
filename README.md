@@ -1,6 +1,7 @@
 Making things and breaking things - Learning along the way 
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 5E55 A4C7 18E9 F60B 5F24 6D6B 3356 BE00 13BA DBFE : GPG Fingerprint
 <!--
 **Mauzy0x/Mauzy0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
