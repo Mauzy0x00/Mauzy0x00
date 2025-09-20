@@ -2,8 +2,8 @@ Making things and breaking things - Learning along the way
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-[GPG Fingerprint](https://mauzy.net/gpg)
 <!--
+[GPG Fingerprint](https://mauzy.net/gpg)
 **Mauzy0x/Mauzy0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
