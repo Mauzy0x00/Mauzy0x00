@@ -1,9 +1,37 @@
-Making things and breaking things - Learning along the way 
+*Making things and breaking things - Learning along the way.*
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+Security-focused systems developer and researcher. I build offensive tooling, low-level systems projects and contribute to FOSS projects when I can.
+Most of my work is self-taught. I learn by building — if I want to understand something, I implement it.
+
+### What I Work On
+**Offensive Security**
+Tools built to understand how attacks work — not just theoretically.
+
+- smokeless_flame — Command & Control framework
+- pathfinder — Web directory and subdomain enumeration
+- ripsaw — Hash cracking tool
+- dbutil_2_3-Exploit — Windows kernel exploit PoC
+- DockerExploit — DockerHub exploit PoC
+
+### Systems & Networking
+I like knowing what's happening at the protocol level.
+
+- dns_r — DNS implementation in Rust
+- nfs_r — NFS protocol re-implementation in Rust
+- WinLogsOnLin — Parser that makes Windows EVTX logs readable on Linux
+- async-rust-chat — Async GUI chat app, built to learn Rust networking
+
+### Languages, Lab & Tools
+[![Languages](https://skillicons.dev/icons?i=rust,python,js,go,c,cpp,cs,php,bash,mysql,powershell,&theme=dark)](https://skillicons.dev)
+
+[![Lab](https://skillicons.dev/icons?i=arch,debian,kali,windows,apple,aws,cloudflare,nginx,docker,kubernetes,raspberrypi&theme=dark)](https://skillicons.dev)
+
+[![Misc Tools](https://skillicons.dev/icons?i=vscode,vim,visualstudio,unity,figma,blender,pr&theme=dark)](https://skillicons.dev)
+### Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauzy0x00&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
 
 <!--
-[GPG Fingerprint](https://mauzy.net/gpg)
 **Mauzy0x/Mauzy0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
