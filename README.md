@@ -7,20 +7,19 @@ Most of my work is self-taught. I learn by building — if I want to understand 
 **Offensive Security**
 Tools built to understand how attacks work — not just theoretically.
 
-- smokeless_flame — Command & Control framework
-- pathfinder — Web directory and subdomain enumeration
-- ripsaw — Hash cracking tool
-- dbutil_2_3-Exploit — Windows kernel exploit PoC
-- DockerExploit — DockerHub exploit PoC
+- [`smokeless_flame`](https://github.com/Mauzy0x00/smokeless_flame) — Command & Control framework
+- [`pathfinder`](https://github.com/Mauzy0x00/pathfinder) — Web directory and subdomain enumeration
+- [`ripsaw`](https://github.com/Mauzy0x00/ripsaw) — Hash cracking tool
+- [`dbutil_2_3-Exploit`](https://github.com/Mauzy0x00/dbutil_2_3-Exploit) — Windows kernel exploit PoC
+- [`DockerExploit`](https://github.com/Mauzy0x00/DockerExploit) — DockerHub exploit PoC
 
-### Systems & Networking
+**Systems & Networking**
 I like knowing what's happening at the protocol level.
 
-- dns_r — DNS implementation in Rust
-- nfs_r — NFS protocol re-implementation in Rust
-- WinLogsOnLin — Parser that makes Windows EVTX logs readable on Linux
-- async-rust-chat — Async GUI chat app, built to learn Rust networking
-
+- [`dns_r`](https://github.com/Mauzy0x00/dns_r) — DNS implementation in Rust
+- [`nfs_r`](https://github.com/Mauzy0x00/nfs_r) — NFS protocol re-implementation in Rust
+- [`WinLogsOnLin`](https://github.com/Mauzy0x00/WinLogsOnLin) — Parser that makes Windows EVTX logs readable on Linux
+- [`async-rust-chat`](https://github.com/Mauzy0x00/async-rust-chat) — Async GUI chat app, built to learn Rust networking
 ### Languages, Lab & Tools
 [![Languages](https://skillicons.dev/icons?i=rust,python,js,go,c,cpp,cs,php,bash,mysql,powershell,&theme=dark)](https://skillicons.dev)
 
