@@ -1,7 +1,7 @@
 *Making things and breaking things - Learning along the way.*
 
 Security-focused systems developer and researcher. I build offensive tooling, low-level systems projects and contribute to FOSS projects when I can.
-Most of my work is self-taught. I learn by building — if I want to understand something, I implement it.
+Most of my work is self-taught. I learn by building; If I want to understand something, I implement it.
 
 ### What I Work On
 **Offensive Security**
